@@ -44,4 +44,7 @@ REST · Microservices · JWT
 ---
 
 - Portfolio → [thenuri-nethangi-portfolio-8s47.vercel.app](https://thenuri-nethangi-portfolio-8s47.vercel.app/)  
-- GitHub → [thenurinethangi](https://github.com/thenurinethangi)  
+- GitHub → [thenurinethangi](https://github.com/thenurinethangi)
+- LinkedIn → [in/thenurinanayakkara](https://www.linkedin.com/in/thenurinanayakkara)  
+- Instagram → [thenuri__7/](https://www.instagram.com/thenuri__7/)
+- Email → [thenurinathangi@gmail.com](thenurinathangi@gmail.com)  
