@@ -22,12 +22,19 @@ Currently, I'm developing a **dual-mode AI interview simulator** that generates 
 
 **Stack:**
 
-TypeScript & Java for systems  
-React & React Native for interfaces  
-Spring & Node for APIs  
-MongoDB, MySQL & Redis for data  
+TypeScript, Java & Python for systems thinking  
+React, Next.js & React Native for interfaces  
+Three.js when interaction needs depth  
+Spring Boot, Node.js & Express for APIs  
+Hibernate when persistence needs structure  
+
+MongoDB, MySQL, Redis & Firestore for data  
+JWT for secure authentication flows  
+
 Docker for deployment  
-Microservices where it makes sense
+Firebase for managed infrastructure  
+
+RESTful design & microservices where it makes sense
 
 ---
 
