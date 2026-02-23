@@ -15,10 +15,10 @@ Currently, I'm developing a **dual-mode AI interview simulator** that generates 
 
 **Some stuff I built:**
 
-- [Wattpad Clone](https://github.com/thenurinethangi/Wattpad-Clone) - A full-featured story publishing platform where users can write, publish, discover, rank, and engage     with serialized content through comments, likes, follows, and personal libraries.
-- [SYNEMA](https://github.com/thenurinethangi/SYNEMA_FRONTEND) - Multi-cinema booking system with real-time seat locking, reservation workflows, and secure end-to-end         ticket purchasing across multiple theaters and screens.
-- [Flip](https://github.com/thenurinethangi/Flip) - Structured productivity system with intelligent task scheduling, repeat-aware logic, contextual notes, and real-time       synchronization.
-- [Hospital Management System](https://github.com/thenurinethangi/Serenity_Mental_Health_Therapy_Center_System) - Backend-driven system managing patients, appointments,       therapy, therapy session scheduling, and doctors using ORM-based persistence and   modular architecture.
+- [Wattpad Clone](https://github.com/thenurinethangi/Wattpad-Clone) - Production-level story platform with multi-chapter management, drafts, social interactions, engagement    systems, premium content, and complete admin moderation.
+- [SYNEMA](https://github.com/thenurinethangi/SYNEMA_FRONTEND) - Multi-cinema booking system with real-time seat locking, reservation workflows, and secure end-to-end          ticket purchasing across multiple theaters and screens.
+- [Flip](https://github.com/thenurinethangi/Flip) - Structured productivity system with intelligent task scheduling, repeat-aware logic, contextual notes, and real-time        synchronization.
+- [Hospital Management System](https://github.com/thenurinethangi/Serenity_Mental_Health_Therapy_Center_System) - Backend-driven system managing patients, appointments,        therapy, therapy session scheduling, and doctors using ORM-based persistence and   modular architecture.
 
 ---
 
