@@ -20,6 +20,31 @@ Currently, I'm developing a **dual-mode AI interview simulator** that generates 
 
 ---
 
+### Engineering Stack
+
+**Core Languages**  
+Java · Python · TypeScript · JavaScript  
+
+**Interface & Interaction**  
+React · React Native · Next.js · Tailwind CSS · Three.js  
+
+**Systems & APIs**  
+Node.js · Express · Spring Boot · Hibernate  
+
+**Data & State**  
+MongoDB · MySQL · Redis · Firebase  
+
+**Infrastructure**  
+Docker · Firebase Hosting  
+
+**Tooling**  
+Git · Postman · Figma  
+
+**Architecture**  
+REST · Microservices
+
+---
+
 **Fun Facts:**
 
 * I don’t like coffee or tea
