@@ -1,4 +1,4 @@
-## Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
 I’m [**Thenuri**](https://mirayatech.notion.site/Miraya-Tech-2fa175720a2080879d27c23207346acb), an undergraduate Software Engineer based in Sri Lanka. I design clean user interfaces, architect scalable backends, and explore intelligent systems that solve real problems.
 
