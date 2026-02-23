@@ -39,6 +39,7 @@ REST · Microservices · JWT
 * Exploring AI & software design inspires my coding  
 * **Hobbies:** books & movies
 
+
 **Connect with Me:**
 
 ---
