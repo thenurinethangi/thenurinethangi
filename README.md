@@ -2,6 +2,10 @@
 
 I’m [**Thenuri**](https://thenuri-nethangi-portfolio-8s47.vercel.app/) , an undergraduate Software Engineer based in Sri Lanka. I build clean user interfaces, architect scalable backends, and explore intelligent systems that solve real problems.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googledomains&logoColor=white)](https://thenuri-nethangi-portfolio-8s47.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thenurinanayakkara)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thenurinathangi@gmail.com)
+
 **These days I’m focused on:**
 - AI & Machine Learning  
 - Building intelligent evaluation systems  
@@ -47,5 +51,5 @@ REST · Microservices · JWT
 - Email → [thenurinathangi@gmail.com](thenurinathangi@gmail.com)
 - LinkedIn → [in/thenurinanayakkara](https://www.linkedin.com/in/thenurinanayakkara)
 - Youtube → [@thenurinathangi4075](https://www.youtube.com/@thenurinathangi4075) 
-- Instagram → [thenuri__7/](https://www.instagram.com/thenuri__7/)
-- GitHub → [thenurinethangi](https://github.com/thenurinethangi)   
+- GitHub → [thenurinethangi](https://github.com/thenurinethangi)
+  
