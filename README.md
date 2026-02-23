@@ -2,10 +2,6 @@
 
 I’m [**Thenuri**](https://thenuri-nethangi-portfolio-8s47.vercel.app/) , an undergraduate Software Engineer based in Sri Lanka. I build clean user interfaces, architect scalable backends, and explore intelligent systems that solve real problems.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googledomains&logoColor=white)](https://thenuri-nethangi-portfolio-8s47.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thenurinanayakkara)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thenurinathangi@gmail.com)
-
 **These days I’m focused on:**
 - AI & Machine Learning  
 - Building intelligent evaluation systems  
@@ -48,8 +44,14 @@ REST · Microservices · JWT
 **Connect with Me:**
 
 - Portfolio → [thenuri-nethangi-portfolio-8s47.vercel.app](https://thenuri-nethangi-portfolio-8s47.vercel.app/)
-- Email → [thenurinathangi@gmail.com](thenurinathangi@gmail.com)
+- Email → [thenurinathangi@gmail.com](mailto:thenurinathangi@gmail.com)
 - LinkedIn → [in/thenurinanayakkara](https://www.linkedin.com/in/thenurinanayakkara)
 - Youtube → [@thenurinathangi4075](https://www.youtube.com/@thenurinathangi4075) 
 - GitHub → [thenurinethangi](https://github.com/thenurinethangi)
-  
+
+
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=thenurinethangi&label=👀+Profile+Views&color=42A5F5&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=42A5F5&label=Followers&query=followers&url=https://api.github.com/users/thenurinethangi&style=for-the-badge&logo=github" alt="GitHub followers" />
+</div>
