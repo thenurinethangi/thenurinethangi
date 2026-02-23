@@ -50,3 +50,5 @@ REST · Microservices · JWT
 - LinkedIn → [in/thenurinanayakkara](https://www.linkedin.com/in/thenurinanayakkara)
 - Youtube → [@thenurinathangi4075](https://www.youtube.com/@thenurinathangi4075) 
 - GitHub → [thenurinethangi](https://github.com/thenurinethangi)
+- Hacker Rank → [thenuri](https://www.hackerrank.com/profile/thenuri)
+- Leet Code → [thenuriNethangi](https://leetcode.com/u/thenuriNethangi/) 
