@@ -51,9 +51,9 @@ REST · Microservices · JWT
 - Youtube → [@thenurinathangi4075](https://www.youtube.com/@thenurinathangi4075) 
 - GitHub → [thenurinethangi](https://github.com/thenurinethangi)
 
----
+  
 
-<p>
+<!-- <p>
   <a href="https://thenuri-nethangi-portfolio-8s47.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge" />
   </a>
@@ -66,4 +66,4 @@ REST · Microservices · JWT
   <a href="mailto:thenurinathangi@gmail.com">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge" />
   </a>
-</p>
+</p> -->
