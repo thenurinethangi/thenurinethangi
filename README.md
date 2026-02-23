@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-I’m [**Thenuri**](https://thenuri-nethangi-portfolio-8s47.vercel.app/), an undergraduate Software Engineer based in Sri Lanka. I build clean user interfaces, architect scalable backends, and explore intelligent systems that solve real problems.
+I’m [**Thenuri**](https://thenuri-nethangi-portfolio-8s47.vercel.app/) , an undergraduate Software Engineer based in Sri Lanka. I build clean user interfaces, architect scalable backends, and explore intelligent systems that solve real problems.
 
 **These days I’m focused on:**
 - AI & Machine Learning  
