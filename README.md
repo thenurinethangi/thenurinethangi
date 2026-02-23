@@ -16,8 +16,8 @@ Currently, I'm developing a **dual-mode AI interview simulator** that generates 
 **Some stuff I built:**
 
 - [Wattpad Clone](https://github.com/thenurinethangi/Wattpad-Clone) - A full-featured story publishing platform where users can write, publish, discover, rank, and engage     with serialized content through comments, likes, follows, and personal libraries.
-- [SYNEMA](https://github.com/thenurinethangi/SYNEMA_FRONTEND) -  A multi-cinema movie booking platform with real-time seat selection, secure reservations, and seamless       online ticket purchasing across multiple theaters and screens.
-- [Flip](https://github.com/thenurinethangi/Flip) - A production-grade productivity suite unifying structured scheduling, contextual notes, and repeat-aware task    systems   with real-time sync.
+- [SYNEMA](https://github.com/thenurinethangi/SYNEMA_FRONTEND) - Multi-cinema booking system with real-time seat locking, reservation workflows, and secure end-to-end         ticket purchasing across multiple theaters and screens.
+- [Flip](https://github.com/thenurinethangi/Flip) - Structured productivity system with intelligent task scheduling, repeat-aware logic, contextual notes, and real-time       synchronization.
 - [Hospital Management System](https://github.com/thenurinethangi/Serenity_Mental_Health_Therapy_Center_System) - Backend-driven system managing patients, appointments,       therapy, therapy session scheduling, and doctors using ORM-based persistence and   modular architecture.
 
 ---
@@ -50,9 +50,3 @@ REST · Microservices · JWT
 - LinkedIn → [in/thenurinanayakkara](https://www.linkedin.com/in/thenurinanayakkara)
 - Youtube → [@thenurinathangi4075](https://www.youtube.com/@thenurinathangi4075) 
 - GitHub → [thenurinethangi](https://github.com/thenurinethangi)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
-![React](https://img.shields.io/badge/React-000?logo=react)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-000?logo=springboot)
-![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
