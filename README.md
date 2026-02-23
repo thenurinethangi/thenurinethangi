@@ -40,7 +40,7 @@ REST · Microservices · JWT
 * Books are my quiet reset  
 * Exploring AI & software design inspires my coding  
 * **Hobbies:** books & movies
-
+  
 ---
 
 **Connect with Me:**
@@ -50,3 +50,9 @@ REST · Microservices · JWT
 - LinkedIn → [in/thenurinanayakkara](https://www.linkedin.com/in/thenurinanayakkara)
 - Youtube → [@thenurinathangi4075](https://www.youtube.com/@thenurinathangi4075) 
 - GitHub → [thenurinethangi](https://github.com/thenurinethangi)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
+![React](https://img.shields.io/badge/React-000?logo=react)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-000?logo=springboot)
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
