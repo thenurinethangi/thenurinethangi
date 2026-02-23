@@ -20,28 +20,14 @@ Currently, I'm developing a **dual-mode AI interview simulator** that generates 
 
 ---
 
-### Engineering Stack
+### Stack
 
-**Core Languages**  
-Java · Python · TypeScript · JavaScript  
-
-**Interface & Interaction**  
-React · React Native · Next.js · Tailwind CSS · Three.js  
-
-**Systems & APIs**  
-Node.js · Express · Spring Boot · Hibernate  
-
-**Data & State**  
-MongoDB · MySQL · Redis · Firebase  
-
-**Infrastructure**  
-Docker · Firebase Hosting  
-
-**Tooling**  
-Git · Postman · Figma  
-
-**Architecture**  
-REST · Microservices
+TypeScript & Java for systems  
+React & React Native for interfaces  
+Spring & Node for APIs  
+MongoDB, MySQL & Redis for data  
+Docker for deployment  
+Microservices where it makes sense
 
 ---
 
