@@ -20,7 +20,7 @@ Currently, I'm developing a **dual-mode AI interview simulator** that generates 
 
 ---
 
-### Stack
+**Stack:**
 
 TypeScript & Java for systems  
 React & React Native for interfaces  
