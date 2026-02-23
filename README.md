@@ -24,11 +24,11 @@ Currently, I'm developing a **dual-mode AI interview simulator** that generates 
 
 TypeScript · Java · Python  
 React · Next.js · React Native · Three.js  
-Spring Boot · Node.js · Express  
-MongoDB · MySQL · Redis  
+Spring Boot · Node · Express  
+MongoDB · MySQL · Redis · Firestore  
 Docker · Firebase  
 
-Architected with REST principles and modular microservices.
+REST · Microservices · JWT
 
 ---
 
