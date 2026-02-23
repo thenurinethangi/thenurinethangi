@@ -55,7 +55,7 @@ REST · Microservices · JWT
 
 ---
 
-<p align="center">
+<p>
   <a href="https://thenuri-nethangi-portfolio-8s47.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge" />
   </a>
