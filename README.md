@@ -33,6 +33,13 @@ REST · Microservices · JWT
 
 ---
 
+**GitHub Stats:**
+
+![Thenuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thenurinethangi&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thenurinethangi&layout=compact&theme=tokyonight)
+
+---
+
 **Fun Facts:**
 
 * Books are my quiet reset  
