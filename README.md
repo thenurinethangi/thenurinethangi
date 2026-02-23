@@ -22,9 +22,10 @@ Currently, I'm developing a **dual-mode AI interview simulator** that generates 
 
 **Stack:**
 
-TypeScript · Java · Python  
+JavaScript · TypeScript · Java · Python  
+HTML5 · CSS3 · Tailwind CSS · Bootstrap  
 React · Next.js · React Native · Three.js  
-Spring Boot · Node · Express  
+Spring · Spring Boot · Node · Express  
 MongoDB · MySQL · Redis · Firestore  
 Docker · Firebase  
 
