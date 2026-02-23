@@ -1,16 +1,19 @@
-### Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-I’m [**Miraya**](https://mirayatech.notion.site/Miraya-Tech-2fa175720a2080879d27c23207346acb), a design engineer based in Germany. I like building clean, modern interfaces with smooth animations and keeping things simple.
+I’m [**Thenuri**](https://mirayatech.notion.site/Miraya-Tech-2fa175720a2080879d27c23207346acb), an undergraduate Software Engineer based in Sri Lanka. I design clean user interfaces, architect scalable backends, and explore intelligent systems that solve real problems.
 
 **These days I’m focused on:**
-- React, TypeScript, Tailwind
-- UI components with subtle motion
-- Small, thoughtful projects with polish
+- AI & Machine Learning  
+- Building intelligent evaluation systems  
+- Three.js & modern frontend interactions  
+- Scalable backend architecture
+- 
+Currently, I'm developing a **dual-mode AI interview simulator** that generates resume-based and topic-based questions, evaluates answers using structured AI scoring, and provides targeted improvement insights.
 
 ---
 
 **Some stuff I built:**
-- [Miraya Face Reveal](https://github.com/mirayatech/miraya-face-reveal) -  A self portrait that blinks and is fully customizable with variables.
+- [Wattpad Clone](https://github.com/mirayatech/miraya-face-reveal) -  A self portrait that blinks and is fully customizable with variables.
 - [Image Card Stack](https://github.com/mirayatech/image-card-stack) -  A draggable card stack component with smooth animations and TypeScript generics.
 - [Anime Scene Gallery](https://github.com/mirayatech/Anime-Scene-Gallery) - An interactive anime scene gallery with hover animations and dynamic transitions.
 - [Ninja Sketch](https://github.com/mirayatech/NinjaSketch) - Excalidraw clone built with React and TypeScript
