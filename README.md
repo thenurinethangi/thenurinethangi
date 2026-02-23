@@ -39,10 +39,9 @@ REST · Microservices · JWT
 * Exploring AI & software design inspires my coding  
 * **Hobbies:** books & movies
 
+---
 
 **Connect with Me:**
-
----
 
 - Portfolio → [thenuri-nethangi-portfolio-8s47.vercel.app](https://thenuri-nethangi-portfolio-8s47.vercel.app/)
 - Email → [thenurinathangi@gmail.com](thenurinathangi@gmail.com)
