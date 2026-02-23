@@ -33,13 +33,6 @@ REST · Microservices · JWT
 
 ---
 
-**GitHub Stats:**
-
-![Thenuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thenurinethangi&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thenurinethangi&layout=compact&theme=tokyonight)
-
----
-
 **Fun Facts:**
 
 * Books are my quiet reset  
@@ -53,5 +46,6 @@ REST · Microservices · JWT
 - Portfolio → [thenuri-nethangi-portfolio-8s47.vercel.app](https://thenuri-nethangi-portfolio-8s47.vercel.app/)
 - Email → [thenurinathangi@gmail.com](thenurinathangi@gmail.com)
 - LinkedIn → [in/thenurinanayakkara](https://www.linkedin.com/in/thenurinanayakkara)
-- Instagram → [thenuri__7/](https://www.instagram.com/thenuri__7/) 
+- Youtube → [@thenurinathangi4075](https://www.youtube.com/@thenurinathangi4075) 
+- Instagram → [thenuri__7/](https://www.instagram.com/thenuri__7/)
 - GitHub → [thenurinethangi](https://github.com/thenurinethangi)   
